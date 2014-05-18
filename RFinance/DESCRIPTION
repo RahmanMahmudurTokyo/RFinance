@@ -15,3 +15,6 @@ Description: Provides tools to analyze stock and option data.  Connects to Yahoo
 License: GPL
 Depends: quantmod, RSQLite, XML, OptimalTrading
 LazyLoad: yes
+
+
+This is good start point for people who are interested into using R for Portfolio Analytics 
